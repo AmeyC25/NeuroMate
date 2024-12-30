@@ -21,6 +21,7 @@ Download all dependencies with:
 
 
 pip install -r requirements.txt
+
 3️⃣ Configure Environment Variables
 Create a .env file in the root directory of your project and add the following keys:
 
@@ -28,6 +29,7 @@ env
 
 GOOGLE_API_KEY=your-google-api-key  
 GROQ_API_KEY=your-groq-api-key  
+
 4️⃣ Organize Your Data
 Place all the necessary PDF files in a folder named Data inside your project directory.
 
