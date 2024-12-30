@@ -1,9 +1,9 @@
 # NeuroMate
-Neurosurgeon's Best Buddy 🧠🤖
+**Neurosurgeon's Best Buddy 🧠🤖**
 
 Your ultimate Agentic RAG system—designed to assist neurosurgeons with precision and efficiency. CUrrent Prototype working on Gemma2-9b-it, Hybrid Search RAG system seamlessly combines semantic and syntactic search to make your tasks effortless.
 
-How to Set Up and Run 🚀
+**How to Set Up and Run 🚀**
 
 1️⃣ Prepare Your Environment
 Install an IDE: Make sure you have VS Code (or your favorite IDE).
