@@ -17,10 +17,7 @@ On macOS/Linux:
 source {your-venv-name}/bin/activate
 
 2️⃣ Install Requirements
-Download all dependencies with:
-
-
-pip install -r requirements.txt
+Download all dependencies with: pip install -r requirements.txt
 
 3️⃣ Configure Environment Variables
 Create a .env file in the root directory of your project and add the following keys:
@@ -34,14 +31,13 @@ GROQ_API_KEY=your-groq-api-key
 Place all the necessary PDF files in a folder named Data inside your project directory.
 
 5️⃣ Run the Application
-Start the app with:
+Start the app with: streamlit run app.py
 
-
-streamlit run app.py
 Features 💡
-Hybrid Search (Semantic + Syntactic)
-Powered by Gemma2-9b-it from Google
-PDF support for efficient knowledge extraction
+
+Hybrid Search (Semantic + Syntactic),
+Powered by Gemma2-9b-it from Google,
+PDF support for efficient knowledge extraction.
 
 
 
