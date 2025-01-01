@@ -1,7 +1,7 @@
 # NeuroMate
 **Neurosurgeon's Best Buddy 🧠🤖**
 
-Your ultimate Agentic RAG system—designed to assist neurosurgeons with precision and efficiency. CUrrent Prototype working on Gemma2-9b-it, Hybrid Search RAG system seamlessly combines semantic and syntactic search to make your tasks effortless.
+Your ultimate Agentic RAG system—designed to assist neurosurgeons with precision and efficiency. CUrrent Prototypes working on Gemma2-9b-it, and Ollama (Using Lightrag wrapper) respectively, the gemma one uses Hybrid Search RAG system to seamlessly combines semantic and syntactic search to make your tasks effortless.
 
 **How to Set Up and Run 🚀**
 
